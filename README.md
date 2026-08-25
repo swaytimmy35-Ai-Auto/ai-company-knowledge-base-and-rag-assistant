@@ -284,15 +284,29 @@ The result is an automated company knowledge base that transforms scattered inte
 
 📸 Screenshots
 
-Screenshots demonstrating the document ingestion workflow, metadata extraction, Airtable document registry, Pinecone index, and AI chat interface will be added here.
+### Document Ingestion Workflow
+
+![Document Ingestion Workflow](screenshots/document-ingestion-workflow.PNG)
+
+### Airtable Document Registry
+
+![Airtable Document Registry](screenshots/airtable-document-registry.PNG)
+
+### Pinecone Vector Index
+
+![Pinecone Vector Index](screenshots/pinecone-index.PNG)
+
+### RAG Chat Response
+
+![RAG Chat Response](screenshots/rag-chat-response.PNG)
 
 ⸻
 
 🎥 Demo
 
-A full walkthrough demonstrating document ingestion, duplicate detection, metadata generation, Pinecone indexing, and conversational retrieval will be linked here.
+A full walkthrough demonstrating document ingestion, duplicate detection, metadata generation, Pinecone indexing, and conversational retrieval.
 
-Demo: Coming soon
+[AI Company Knowledge Base & RAG Assistant Demo](https://www.loom.com/share/a1c6fefce0d14297abe92c54376b8d89)
 
 ⸻
 
